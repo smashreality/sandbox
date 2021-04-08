@@ -1,0 +1,90 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-chart": "^2.7.5",
+    "@devexpress/dx-react-chart-material-ui": "^2.7.5",
+    "@devexpress/dx-react-core": "^2.7.5",
+    "@devexpress/dx-react-grid": "^2.7.5",
+    "@devexpress/dx-react-grid-export": "^2.7.5",
+    "@devexpress/dx-react-grid-material-ui": "^2.7.5",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "*",
+    "@reduxjs/toolkit": "^1.5.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.3",
+    "axios": "^0.21.1",
+    "clsx": "^1.1.1",
+    "d3-scale": "^3.2.4",
+    "devextreme-react": "^20.2.6",
+    "faker": "^5.4.0",
+    "file-saver": "^2.0.5",
+    "formik": "^2.2.6",
+    "history": "^5.0.0",
+    "jwt-decode": "^3.1.2",
+    "lottie-web": "^5.7.6",
+    "notistack": "^1.0.5",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-redux": "^7.2.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "storybook-addon-styled-component-theme": "^2.0.0",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.2.2",
+    "web-vitals": "^1.1.0",
+    "yup": "^0.32.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "storybook": "start-storybook -p 6006 -s public",
+    "storybook:test": "react-scripts test --watchAll=false --json --outputFile=./src/.tmp/.jest-test-results.json && start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@storybook/addon-a11y": "^6.2.5",
+    "@storybook/addon-actions": "^6.2.5",
+    "@storybook/addon-essentials": "^6.2.5",
+    "@storybook/addon-jest": "^6.2.5",
+    "@storybook/addon-links": "^6.2.5",
+    "@storybook/node-logger": "^6.2.5",
+    "@storybook/preset-create-react-app": "^3.1.7",
+    "@storybook/react": "^6.2.5",
+    "@types/jest": "^26.0.20",
+    "@types/node": "^12.20.4",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
+    "@types/react-router-dom": "^5.1.7",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.4.1",
+    "enzyme": "^3.11.0",
+    "storybook-addon-designs": "^6.0.0-alpha.3"
+  }
+}
