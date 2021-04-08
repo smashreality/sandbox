@@ -11,6 +11,10 @@ This sandbox is used to quickly spin up a storybook and test out a component ide
 - Github (https://github.com/)
 - Microsoft Visual Code (with liniting and prettier setup)
 
+### Nice to have (bonus points)
+
+- Jest w/ Enzyme for testing
+
 for full list see ... (README_WORK_WITH_US.md)
 
 # Getting Setup
@@ -31,4 +35,4 @@ for windows
 
 `$ npm run storybook`
 
-copy, create or use the folder MyComponent in `src/components/MyComponent` as your component base. look at Example Station Identifier for an example.
+in you code editor copy, create or use the folder MyComponent in `src/components/MyComponent` as your component base. look at Example Station Identifier for an example. Review you changes in storybook at `localhost:6006`

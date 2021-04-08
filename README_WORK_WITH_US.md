@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+We are looking for a skilled React.js Developer to join our front-end development team. In this role, you will be responsible for developing and implementing user interface components using React.js concepts and workflows such as Redux, and Webpack. You will also be responsible for profiling and improving front-end performance and documenting our front-end codebase.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To ensure success as a React.js Developer, you should have in-depth knowledge of JavaScript and React concepts, excellent front-end coding skills, and a good understanding of progressive web applications. Ultimately, a top-class React.js Developer should be able to design and build modern user interface components to enhance application performance.
 
-## Available Scripts
+React.js Developer Responsibilities:
 
-In the project directory, you can run:
+- Meeting with the development team to discuss user interface ideas and applications.
+- Reviewing application requirements and interface designs.
+- Identifying web-based user interactions.
+- Developing and implementing highly-responsive user interface components using React concepts.
+- Writing application interface codes using JavaScript following React.js workflows.
+- Troubleshooting interface software and debugging application codes.
+- Developing and implementing front-end architecture to support user interface concepts.
+- Monitoring and improving front-end performance.
+- Documenting application changes and developing updates.
 
-### `npm start`
+React.js Developer Requirements:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Bachelor's degree in Computer Science, Information Technology, or a similar field.
+- Previous experience working as a React.js Developer.
+- In-depth knowledge of JavaScript, CSS, HTML, and front-end languages.
+- Knowledge of REACT tools including React.js, Webpack, Enzyme, Redux.
+- Experience with user interface design.
+- Knowledge of performance testing frameworks including Mocha and Jest.
+- Experience with browser-based debugging and performance testing software.
+- Excellent troubleshooting skills.
+- Good project management skills.
+  Skills / Knowledge:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+* ReactJS
+* Redux
+* Visual Studio Code
+* Liniting
+* Git
+* Docker / Docker Compose
+* Postman
+* NPM
+* Linux
+* Slack
+  Nice to have:
+* StorybookJS knowledge
+* Accessibility knowledge
+* Swagger knowledge
+* Ability to write component documentation
+* AWS knowledge
+* CircleCI
+* Unix knowledge
+* Terminal knowledge
+* Have used Figma
