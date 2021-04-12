@@ -17,9 +17,9 @@ This sandbox is used to quickly spin up a storybook and test out a component ide
 
 for full list see ... (README_WORK_WITH_US.md)
 
-# Getting Setup
+# Getting Setup - Unix / Linux
 
-clone repo
+NOTE: these steps are using the terminal, please use whatever method works best for you.
 
 `$ git clone https://github.com/smashreality/sandbox`
 
@@ -36,3 +36,11 @@ for windows
 `$ npm run storybook`
 
 in you code editor copy, create or use the folder MyComponent in `src/components/MyComponent` as your component base. look at Example Station Identifier for an example. Review you changes in storybook at `localhost:6006`
+
+# Work With US - Qualifying Requirements
+
+- create a PR to sandbox when finished
+- code writen using typescript
+- using material ui components to build your component.
+- I should be able to pull your branch and review in storybook by running NPM run storybook and visiting localhost:6006 not localhost:3000 that’s react PWA build.
+- bonus marks for any testing used.
